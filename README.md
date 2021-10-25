@@ -1,8 +1,7 @@
 # 2D-vectors-visualizer
-
 Simple visualizer of two vectors and their sum
 
-This project was made with: 
+## Libraries
 
 - [p5.js](https://p5js.org)
 
